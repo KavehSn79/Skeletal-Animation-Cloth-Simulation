@@ -1,4 +1,4 @@
-# CG1 - Exercise 6: Skeletal Animation & Cloth Simulation
+Skeletal Animation & Cloth Simulation
 
 This repository demonstrates **skeletal animation** with an elephant model and **cloth simulation** (pendulum chains and curtains) using a spring system. The GUI allows interactive parameter tuning.
 
