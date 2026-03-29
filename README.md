@@ -34,7 +34,7 @@ This repository demonstrates **skeletal animation** with an elephant model and *
 
 **Example: Elepahnt animation and Curtain**
 
-![Curtain Simulation](./assets/curtain.gif)
+![Curtain Simulation](Animation.gif)
 
 ---
 ## **🛠️ Building the Project**
