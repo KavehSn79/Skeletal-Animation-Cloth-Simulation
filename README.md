@@ -32,7 +32,7 @@ This repository demonstrates **skeletal animation** with an elephant model and *
 * Pin and reset functionality.
 
 
-**Example: Elepahnt animation and Curtain**
+**Example: Elephant animation and Curtain**
 
 ![Curtain Simulation](Animation.gif)
 
